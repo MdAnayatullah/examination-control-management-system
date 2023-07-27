@@ -1,0 +1,8 @@
+Admin Login
+------------
+Admin Username: admin
+Admin Password: pass123
+
+teacher's/ Faculty Login 
+------------------------
+Faulty No: t001
