@@ -1,4 +1,4 @@
-## Tech Stack
+## Tech Stack Used
 
 - Backend: PHP
 - Front End: JavaScript, HTML
