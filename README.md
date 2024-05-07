@@ -1,3 +1,9 @@
+## Tech Stack
+
+- Backend: PHP
+- Front End: JavaScript, HTML
+- Styling: CSS
+- Database: MYSQL, using SQL
 
 ## Steps to start project:
 - step1: download from github link: https://github.com/MdAnayatullah/examination-control-management-system
@@ -7,14 +13,6 @@
 - step5: import database "ttms" from databse folder of the project
 - step6: Now open the localhost/ttms
 - here we go!
-
-
-## Tech Stack
-
-- Backend: PHP
-- Front End: JavaScript, HTML
-- Styling: CSS
-- Database: MYSQL, using SQL
 
 ## Functionality :
 
